@@ -1,0 +1,2 @@
+JMH S 21 org.example.BenchMark S 58 org.example.jmh_generated.BenchMark_parallelstream_jmhTest S 14 parallelstream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 21 org.example.BenchMark S 60 org.example.jmh_generated.BenchMark_secuencialStream_jmhTest S 16 secuencialStream S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
