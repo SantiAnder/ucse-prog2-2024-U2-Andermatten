@@ -1,4 +1,6 @@
-import org.example.StreamBenchmark;
+package org.example.ClasesEjercicioTests;
+
+import org.example.ClasesEjercicio.StreamBenchmark;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 

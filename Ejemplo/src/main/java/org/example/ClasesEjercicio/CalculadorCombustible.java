@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ClasesEjercicio;
 
 public class CalculadorCombustible {
     private static CalculadorCombustible instance;

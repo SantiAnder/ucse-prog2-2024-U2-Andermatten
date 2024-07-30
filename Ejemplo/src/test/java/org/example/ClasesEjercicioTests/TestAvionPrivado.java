@@ -1,4 +1,6 @@
-import org.example.AvionPrivado;
+package org.example.ClasesEjercicioTests;
+
+import org.example.ClasesEjercicio.AvionPrivado;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 public class TestAvionPrivado {

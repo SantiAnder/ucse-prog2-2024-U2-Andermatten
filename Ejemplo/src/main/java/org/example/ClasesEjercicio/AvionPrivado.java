@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ClasesEjercicio;
 
 public class AvionPrivado extends Avion {
     public AvionPrivado(int capacidadCombustible, int consumoCombustible) {

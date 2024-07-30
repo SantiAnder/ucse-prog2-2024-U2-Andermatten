@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.ClasesEjercicio.StreamBenchmark;
 import org.openjdk.jmh.annotations.Benchmark;
 import org.openjdk.jmh.annotations.Scope;
 import org.openjdk.jmh.annotations.State;

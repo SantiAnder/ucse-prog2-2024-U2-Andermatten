@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestAvionPrivado" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-07-29T13:30:44" hostname="DESKTOP-6I288VM" time="0.036">
+<testsuite name="TestAvionPrivado" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-07-29T23:49:38" hostname="DESKTOP-6I288VM" time="0.009">
   <properties/>
-  <testcase name="testConsumoCombustible()" classname="TestAvionPrivado" time="0.005"/>
-  <testcase name="testVolarPrivado()" classname="TestAvionPrivado" time="0.011"/>
-  <testcase name="testCapacidadCombustible()" classname="TestAvionPrivado" time="0.006"/>
+  <testcase name="testConsumoCombustible()" classname="TestAvionPrivado" time="0.001"/>
+  <testcase name="testVolarPrivado()" classname="TestAvionPrivado" time="0.003"/>
+  <testcase name="testCapacidadCombustible()" classname="TestAvionPrivado" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

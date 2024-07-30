@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ClasesEjercicio;
 public abstract class Avion {
     protected int capacidadCombustible;
     protected int consumoCombustible;
