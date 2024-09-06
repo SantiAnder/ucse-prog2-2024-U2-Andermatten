@@ -11,3 +11,13 @@ Podemos observar que el parallelstream es más rápido, dado que conlleva 5.222 
 
 
 
+# Correcciones - Estado: RE-ENTREGA
+
+## Necesarias para aprobar:
+- Ejercicio 1: en los tests no utliza @BeforeEach, codigo repetido que se pisa ya que no se renueva en cada @Test.
+- Ejercicio 2: Deben duplicar el codigo anterior, no modificarlo en el mismo archivo. NO utilizar
+  optimizaciones del compilador JIT (Just In Time). Para ésto deberían de utilizar el objeto BlackHole, el cual les
+  permite tener resultados sin sesgos en cuanto a la optimización del compilador, pueden ver un ejemplo
+  acá https://www.baeldung.com/java-microbenchmark-harness#dead-code-elimination
+- Ejercicio 3: Debería de utilizar ".thenAccept()" en vez de hacer un ".join()" multiples veces.
+
